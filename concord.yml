@@ -4,6 +4,6 @@ configuration:
 
 flows:
   default:
-  - script: helloword.py
+  - script: helloworld.py
   - log: "success"
 
