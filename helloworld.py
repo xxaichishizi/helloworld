@@ -1,3 +1,3 @@
 #!/usr/bin/python
- 
-print("Hello, World!")
+upc = "00000001"
+print("Hello, World!  {}".format(upc))
